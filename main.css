@@ -1,0 +1,54 @@
+.Calc{
+  height:500px;
+  width:400px;
+  margin: 25% 50%;
+
+}
+.btn{
+  padding:
+}
+.row{
+  padding-top:10px;
+}
+.btn{
+  padding:0px;
+  width:80px;
+  height:80px;
+  border-color:black;
+}
+.well{
+  background-color:#595959;
+}
+#screen{
+  width:350px;
+  height:40px;
+  font-family:Questrial;
+  margin-left:20px;
+}
+#zero{
+  width:180px;
+}
+#equals{
+  background-color:#ff6600;
+}
+#minus{
+  background-color:#ff6600;
+}
+#plus{
+   background-color:#ff6600;
+}
+#multiply{
+   background-color:#ff6600;
+}
+#divide{
+   background-color:#ff6600;
+}
+#clear{
+  background-color:#bfbfbf;
+}
+#negative{
+  background-color:#bfbfbf;
+}
+#percent{
+  background-color:#bfbfbf;
+}
